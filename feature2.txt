@@ -1,0 +1,1 @@
+This is feature2 file having some additional features
